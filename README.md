@@ -1,7 +1,7 @@
 # DIPT-EXP-10-IMPLEMENTATION-OF-OPENING-AND-CLOSING
 
-# Name : Sanjaykumar B
-# Reg.no: 212224230242
+# Name : Jones Benedict A P
+# Reg.no: 212224040142
 ## Aim
 
 To write a Python program using OpenCV to perform morphological Opening and Closing operations on an image.
@@ -74,7 +74,8 @@ plt.title("Input Image with Text")
 plt.axis('off')
 
 ```
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/d64adec8-0212-42a0-9784-589ac788a156" />
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/c20611d2-c916-4f4b-a70b-8c0860f84173" />
+
 
 
 ### Opening Operation
@@ -84,7 +85,8 @@ plt.imshow(cv2.cvtColor(opened_image, cv2.COLOR_BGR2RGB))  # Convert BGR to RGB
 plt.title("Opening Operation")
 plt.axis('off')
 ```
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/de920b6f-7d4e-4445-8b5b-bde5b9b25daa" />
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/0dca06ab-e15e-4558-80b0-6dbf45477df1" />
+
 
 
 
@@ -97,8 +99,8 @@ plt.title("Closing")
 plt.axis("off")
 
 ```
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/bda7a189-aab4-4431-ab4e-117a7683bc37" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/46e1d1f9-356c-4002-8d5b-60d57928489d" />
 
 
 
